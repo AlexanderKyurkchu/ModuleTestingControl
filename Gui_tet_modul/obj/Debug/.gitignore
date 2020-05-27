@@ -1,0 +1,5 @@
+*.cache
+*.pdb
+*.Properties.Resources.resources
+*.exe
+*.csproj.FileListAbsolute.txt
